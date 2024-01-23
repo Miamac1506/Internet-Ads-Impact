@@ -16,3 +16,7 @@ The Campaign table describes information about advertising campaigns.
 - Calculate and assess click rates and conversion rates for each social media platform and campaign throughout the duration.
 - Generate a matrix table reporting clicks, views, inputs, click rates, cost per click, and conversion rates.
 - Implement filters for customizable reporting based on date, campaign, offers, and social media.
+  
+![IMG_0546](https://github.com/Miamac1506/Internet-Ads-Impact/assets/145936074/16999085-cc1c-4476-b3ac-594f02e99e89)
+
+  
